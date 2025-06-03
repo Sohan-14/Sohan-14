@@ -1,4 +1,3 @@
-<div style="background:#282A36;padding:8px">
 <!-- Banner or Introduction -->
 
 <h1 align="center">Hi there 👋, I'm Sohan</h1>
@@ -118,5 +117,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-</div>
