@@ -80,12 +80,6 @@
 
 ---
 
-## 🎙️ Latest Dev Jokes
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Random Dev Joke"/>
-</p>
-
 ## Github Trophis
 
 <p align="center">
