@@ -1,25 +1,102 @@
-<h1 align="center">Hi there 👋, I'm Md Zahidul Islam Shohan</h1>
-<h3 align="center">Native Android & Cross-Platform Developer 🚀</h3>
+<!-- Banner or Introduction -->
+
+<h1 align="center">Hi there 👋, I'm Sohan</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=MD%20Zahidul%20Islam%20Shohan&reversal=true&textBg=false&fontSize=30&fontAlign=50&fontAlignY=25&animation=fadeIn&strokeWidth=0&desc=Mobile%20Application%20Developer&descAlignY=45"/>
+</p>
+
+<h4 
+    align="center",
+    >
+    Android + Flutter Developer | Rust & Node Backend Enthusiast | Clean Architect | Always learning
+</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&width=440&lines=Java+%7C+Kotlin+%7C+Flutter+Developer;Clean+Architecture+%7C+MVVM+%7C+GetX+Expert;Lover+of+Tech+%7C+Pixel+Perfect+UI+Craftsman;Let's+build+something+awesome+together!+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&lines=Java+%7C+Kotlin+%7C+Flutter+Developer;Clean+Architecture+%7C+MVVM+%7C+GetX+Expert%7C+Pixel+Perfect+UI+Craftsman;Let's+build+something+awesome+together!+💻" alt="Typing SVG" />
+</p>
+
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **Flutter & Android apps**
+- 🌱 I’m learning **Rust, Backend Systems, and Infrastructure Tools**
+- 💬 Ask me about **Flutter, Kotlin, Clean Architecture, GetX, Jetpack Compose**
+- ⚡ Fun fact: I love creating scalable starter templates and CLI tools!
+
+---
+
+![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaboration-brightgreen?style=for-the-badge&logo=github)
+
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-00100?style=for-the-badge&logo=javascript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+
+**Frameworks & Tools:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohan-14&show_icons=true&theme=dracula" alt="Sohan GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohan-14&theme=dracula" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan-14&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔧 I’m a **Native Android** and **Flutter** developer
-- ✨ Passionate about building **high-performance**, **user-centric**, and **scalable** mobile apps
-- 🏗️ Advocating for **Clean Architecture**, **MVVM**, **SOLID principles**, and maintainable code
-- 🎨 I care about UI/UX as much as logic and performance
-- 📱 Experienced with production-ready apps for **Android** and **iOS**
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohan-14&theme=dracula" alt="GitHub Contribution Graph"/>
+</p>
 
 ---
 
-### 📫 Connect with Me
+## 🎯 Projects & Tools
 
-<p align="left">
-  <a href="https://zis-softworks.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B.svg?logo=Portfolio&logoColor=white" /></a>
+- ⚙️ [Sohan Flutter CLI](https://github.com/Sohan-14/sohan_flutter_cli)
+- 🧱 [Flutter Starter Template (Clean GetX)](https://github.com/Sohan-14/sohan_starter_temp_clean_getx)
+- 🔒 More awesome tools coming soon...
+
+---
+
+## 🎙️ Latest Dev Jokes
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Random Dev Joke"/>
+</p>
+
+## Github Trophis
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sohan-14&theme=dracula&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+
+
+## 🧭 Let's Connect
+
+<p align="start">
+ <a href="https://zis-softworks.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B.svg?logo=browser&logoColor=white" /></a>
   <a href="https://linkedin.com/in/md-zahidul-islam-shohan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://facebook.com/sohanakondo.03" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
   <a href="https://instagram.com/_sohan_3860" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
@@ -27,67 +104,16 @@
 
 ---
 
-### 🧰 Tech Stack
+## 🧮 Visitor Count
 
-#### 📱 Mobile Development
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-
-#### 🌐 Web & Backend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-
-#### 🎨 UI/UX & Styling
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white)
-
-#### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
+![](https://komarev.com/ghpvc/?username=sohan-14&color=brightgreen)
 
 ---
+    If you like what I do, feel free to ⭐️ some repos, share feedback, or connect for collaboration.  
+    Let’s build something extraordinary together!
+*Built with ❤️ by Sohan*
 
-### 📈 GitHub Stats
-
+---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohan-14&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="49.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohan-14&theme=dracula&hide_border=true" width="49.5%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan-14&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohan-14&theme=dracula&no-frame=false&no-bg=false&margin-w=6" />
-</p>
-
----
-
-### 📊 Profile Insights
-- 👀 Profile Views: ![](https://komarev.com/ghpvc/?username=sohan-14&color=brightgreen)
-- 🔁 Visitor Counter: [![](https://visitcount.itsvg.in/api?id=sohan-14&icon=2&color=12)](https://visitcount.itsvg.in)
-
----
-
-### 💡 Fun Fact
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-### 🙏 Thanks for stopping by!
-
-If you like what I do, feel free to **⭐️ some repos**, share feedback, or **connect for collaboration**.  
-Let’s build something extraordinary together! 🚀
