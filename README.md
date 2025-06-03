@@ -47,15 +47,15 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=sohan-14&show_icons=true&theme=dracula" alt="Sohan GitHub Stats"/>
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohan-14&theme=dracula" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan-14&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
 
