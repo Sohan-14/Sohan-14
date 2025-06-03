@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Sohan</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=MD%20Zahidul%20Islam%20Shohan&reversal=true&textBg=false&fontSize=30&fontAlign=50&fontAlignY=25&animation=fadeIn&strokeWidth=0&desc=Mobile%20Application%20Developer&descAlignY=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=MD%20Zahidul%20Islam%20Shohan&reversal=true&textBg=false&fontSize=30&fontAlign=50&fontAlignY=25&animation=fadeIn&stroke=ffffff&strokeWidth=0&desc=Mobile%20Application%20Developer&descAlignY=45&fontColor=ffffff&rotate=0"/>
 </p>
 
 <h4 
