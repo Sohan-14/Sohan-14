@@ -11,10 +11,7 @@
     Android + Flutter Developer | Rust & Node Backend Enthusiast | Clean Architect | Always learning
 </h4>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&lines=Java+%7C+Kotlin+%7C+Flutter+Developer;Clean+Architecture+%7C+MVVM+%7C+GetX+Expert%7C+Pixel+Perfect+UI+Craftsman;Let's+build+something+awesome+together!+💻" alt="Typing SVG" />
-</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&letterSpacing=&pause=1000&color=6420FF&width=300&lines=Java%7C++Kotlin+%7C+Flutter+Developer+%7C+Clean+Architecture%7C++MVVM+%7C+GetX++%7C+Pixel+Perfect+UI+Craftsman+%7C+Let's+build+something+awesome+together)](https://git.io/typing-svg)
 
 ---
 
